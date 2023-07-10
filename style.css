@@ -5,7 +5,6 @@
   height:500px;
    background: rgba(209, 98, 122, 0.574);
    margin:0;
-   padding:1;
 }
 .img-cutting{
     width: 400px;
@@ -26,4 +25,94 @@ background: #E55473;
 padding:10px 23px;
 gap: 10px;
 }
+.word-edit
+{
+    color: #E55473;  
+}
+.banner{
+    display:flex;
+    text-align:center;
+    align-items: center;
+    justify-content: space-between;
+}
+section{
+    
+height:320px;
+background:rgba(180, 134, 163, 0.567);
+gap:30px;
+}
 
+.img-cutting2{
+    width: 200px;
+height: 220px;
+margin:30px 400px 0 180px;
+}
+.head-edit2{
+    margin-left:200px;
+    font-size:28px;
+}
+.para-edit2{
+    margin-left:186px;
+}
+.btn-primary2{
+    margin-left:196px;
+    border-radius: 4px;
+background: #E55473;
+padding:10px 23px;
+gap: 10px;
+}
+.s1{
+background:none;
+height:500px;
+}
+.img-cutting3{
+    height:200px;
+    width:160px;
+}
+.photo1{
+    display:flex;
+    align-items: center;
+    margin-left:450px;
+    margin-right:320pxpx;
+    gap:7px;
+}
+.head-para3{
+    text-align:center;
+}
+.head-edit3{
+    font-size:20px;
+}
+.head-p{
+    text-align:center;
+}
+.formm{
+    background-image: url('images/Rectangle\ 9.png');
+    height:300px;
+}
+.head-edit4{
+    margin-top:30px;
+    padding-top: 5px;
+    font-size:22px;
+}
+.box
+{
+    padding:3px 5px 3px 5px;
+    width: 500px;
+height:30px;
+border-radius: 8px;
+background: #FFF;
+margin-left: 480px;
+}
+.backed
+{
+    align-items:center;
+    margin-top:20px;
+    padding-top:60px;
+}
+
+.btn-primary3{
+    border-radius: 4px;
+    background: #E55473;
+    padding:10px 23px;
+    gap: 10px;
+}
