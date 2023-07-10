@@ -1,0 +1,29 @@
+.photo-head{
+    display:flex;
+   justify-content: space-between;
+   align-items: center;
+  height:500px;
+   background: rgba(209, 98, 122, 0.574);
+   margin:0;
+   padding:1;
+}
+.img-cutting{
+    width: 400px;
+height: 475px;
+margin:30px 180px 0 110px;
+}
+.head-edit{
+    font-size: 28px;
+   margin-left:100px;
+}
+.para-edit{
+    margin-left:100px;
+}
+.btn-primary{
+    margin-left:100px;
+    border-radius: 4px;
+background: #E55473;
+padding:10px 23px;
+gap: 10px;
+}
+
