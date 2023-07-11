@@ -223,7 +223,7 @@ justify-content: space-evenly;
     text-align:center;
     border-radius: 8px;
 background: rgba(211, 96, 96, 0.658);
-margin-top:40px;
+margin-top:65px;
 padding-top:120px;
 }
 .cls{
@@ -231,6 +231,5 @@ padding-top:120px;
     padding-top:40px;
     padding-bottom:40px;
     border-radius:8px;
-    margin-bottom:2px;
 
 }
