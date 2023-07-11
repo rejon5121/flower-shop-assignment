@@ -212,3 +212,25 @@ justify-content: space-evenly;
 .newhead{
     font-size:26px;
 }
+.des{
+    padding-top:20px;
+    padding-bottom:20px;
+    width:400px;
+}
+.se33
+{
+    height:180px;
+    text-align:center;
+    border-radius: 8px;
+background: rgba(211, 96, 96, 0.658);
+margin-top:40px;
+padding-top:120px;
+}
+.cls{
+    width:300px;
+    padding-top:40px;
+    padding-bottom:40px;
+    border-radius:8px;
+    margin-bottom:2px;
+
+}
